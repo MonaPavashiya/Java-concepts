@@ -2,19 +2,14 @@ package day2;
 
 public class IfElseCondiion {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		int age = 15;
 
-		if(age >= 18) 
-		{
+		if (age >= 18) {
 			System.out.println("Eligible for vote");
-		}
-		else
-		{
+		} else {
 			System.out.println("Not eligible for vote");
 		}
-		
 
 	}
 
