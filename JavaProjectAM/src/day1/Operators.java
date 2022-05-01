@@ -1,4 +1,4 @@
-package mypackageDay1;
+package day1;
 
 public class Operators 
 {
