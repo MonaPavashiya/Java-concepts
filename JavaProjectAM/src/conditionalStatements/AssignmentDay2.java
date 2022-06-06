@@ -1,4 +1,4 @@
-package day2;
+package conditionalStatements;
 
 public class AssignmentDay2 {
 
@@ -17,6 +17,7 @@ public class AssignmentDay2 {
 		{
 			System.out.println("This number is negative");
 		}
+		System.out.println();
 		
 		//Write a java program to find greatest of 3 numbers.
 		System.out.println("...find greatest of 10,20 and 30 numbers...");

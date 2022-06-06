@@ -1,4 +1,4 @@
-package day1;
+package operators;
 
 public class AssignmentDay1 {
 
@@ -8,6 +8,7 @@ public class AssignmentDay1 {
 		System.out.println("...Printing hello and my name..");
 		System.out.println("Hello");
 		System.out.println("Mona");
+		System.out.println();
 		
 		
 		//Write a java program to print the sum of two number..
@@ -15,12 +16,13 @@ public class AssignmentDay1 {
 		int y = 36;
 		System.out.println("...Sum of 74 and 36...");
 		System.out.println("74+36 is equal to : " +(x+y));
+		System.out.println();
 		
 		
 		//Write a java program to swap values of a and b ..
 		int a = 10;
 		int b = 20;
-		int c = 30;
+		int c;
 		
 		c = a;
 		a = b;
